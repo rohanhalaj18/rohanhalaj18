@@ -155,3 +155,8 @@ const rohan = {
     <img src="https://komarev.com/ghpvc/?username=rohanhalaj18&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
