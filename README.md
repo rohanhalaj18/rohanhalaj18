@@ -19,7 +19,7 @@
 
 <!-- GTA 5 STICKER PACK -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohanhalaj18/rohanhalaj18/main/assets/gta5_stickers.png" width="700" alt="GTA 5 Stickers" />
+  <img src="./assets//image copy.png" width="700" alt="GTA 5 Stickers" />
 </p>
 
 <!-- CONTACT BUTTON -->
