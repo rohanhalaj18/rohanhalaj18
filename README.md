@@ -195,8 +195,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=030917,0d47a1,b71c1c,1565c0,030917&height=130&section=footer&text=MISSION%20PASSED!%20%2B%24RESPECT&fontSize=32&fontColor=e3f2fd" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/rohanhalaj18">
     <img src="https://visitcount.itsvg.in/api?id=rohanhalaj18&icon=0&color=1" alt="Profile Views" />
   </a>
-</p>
+</p> -->
