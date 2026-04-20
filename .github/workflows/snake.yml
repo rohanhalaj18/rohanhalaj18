@@ -12,7 +12,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: rohanhalaj18
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3a7ce2
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:

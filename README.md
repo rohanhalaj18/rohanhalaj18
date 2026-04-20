@@ -94,13 +94,9 @@ const rohan = {
 ## 🐍 `Interactive Contribution Snake`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohanhalaj18/rohanhalaj18/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohanhalaj18/rohanhalaj18/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/rohanhalaj18/rohanhalaj18/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="GitHub Contribution Snake Animation Workflow" src="https://raw.githubusercontent.com/rohanhalaj18/rohanhalaj18/output/ocean.gif">
 </p>
-<p align="center"><i>(Make sure the snake generator GitHub action is active to see it move! 🏃‍♂️)</i></p>
+<p align="center"><i>(Make sure the snake generator GitHub action is running to see it move! 🏃‍♂️)</i></p>
 
 ---
 
@@ -154,9 +150,4 @@ const rohan = {
   <a href="https://github.com/rohanhalaj18">
     <img src="https://komarev.com/ghpvc/?username=rohanhalaj18&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</p>
