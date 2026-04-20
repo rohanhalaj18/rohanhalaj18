@@ -1,33 +1,33 @@
-<!-- HEADER WITH MINIMALIST CAPSULE -->
+<!-- HEADER GREETING -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,58a6ff,0d1117&height=180&section=header&text=Hello,%20I'm%20Rohan!&fontSize=50&fontColor=c9d1d9&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Developer%20|%20Hackathon%20Champion&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,e92a67,a853ba,2a8bab,000000&height=180&section=header&text=👾%20START%20GAME:%20Rohan%20Halaj&fontSize=50&fontColor=ffffff&desc=Class:%20Software%20Engineer%20%7C%20Guild:%20AI%20Developers%20%7C%20Level:%2099&descAlignY=55" />
 </p>
 
 <!-- TYPING SVG INTERACTIVE TEXT -->
 <p align="center">
   <a href="https://github.com/rohanhalaj18">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&lines=Building+impactful+software;Winning+Hackathons;Developing+Agentic+AI;Turning+Ideas+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=14&duration=3000&pause=1000&color=2a8bab&center=true&vCenter=true&width=700&lines=>>>+Loading+Impactful+Software...;>>>+Winning+Hackathons...;>>>+Developing+Agentic+AI...;>>>+Press+Start+To+Continue_" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- INTERACTIVE 'LEAVE A MESSAGE' BUTTON -->
 <p align="center">
-   <a href="https://github.com/rohanhalaj18/rohanhalaj18/issues/new?title=👋%20Hi%20Rohan!&body=I%20just%20visited%20your%20GitHub%20profile%20and...">
-      <img src="https://img.shields.io/badge/💬_Leave_a_Message-Click_Here!-2ea043?style=for-the-badge&logo=github" alt="Leave a message" />
+   <a href="https://github.com/rohanhalaj18/rohanhalaj18/issues/new?title=👋%20Hi%20Rohan!">
+      <img src="https://img.shields.io/badge/🎮_Send_Message-Press_A-e92a67?style=for-the-badge&logo=github" alt="Leave a message" />
    </a>
 </p>
 
 ---
 
-## 🏆 `Hackathon Hall of Fame`
+## 🏆 `[ Leaderboard: Hackathon Runs ]`
 *(Hover and explore!)*
 
-<table align="center" style="border-collapse: collapse; text-align: left;">
-  <tr style="background-color: #161b22; color: #58a6ff;">
+<table align="center" style="border-collapse: collapse; text-align: left; background-color: #0d1117;">
+  <tr style="color: #2a8bab;">
     <th style="padding: 10px;">Medal / Prize</th>
     <th style="padding: 10px;">Event Name & Date</th>
     <th style="padding: 10px;">Organization</th>
-    <th style="padding: 10px;">Team Members</th>
+    <th style="padding: 10px;">Party Members</th>
   </tr>
   <tr>
     <td style="padding: 10px; font-size: 1.2em;">🥇 1st Place</td>
@@ -57,10 +57,10 @@
 
 ---
 
-## 🛠 `My Interactive Workspace`
+## 🎒 `[ Inventory & Loadout ]`
 
 <details>
-  <summary>💻 <b>Launch Tech Stack Sandbox</b></summary>
+  <summary>💻 <b>Equip: Tech Stack Sandbox</b></summary>
   <br>
   
   <p align="center">
@@ -74,7 +74,7 @@
 </details>
 
 <details>
-  <summary>🚀 <b>Launch Featured Projects</b></summary>
+  <summary>🚀 <b>Load Save Files: Featured Quests (Projects)</b></summary>
   <br>
   
   <table align="center" style="border-collapse: collapse; text-align: center;">
@@ -82,24 +82,24 @@
       <td width="50%" style="padding: 15px;">
         <b>🧠 NoteConnect</b><br>
         <i>P2P Notes Platform</i><br>
-        <a href="#"><img src="https://img.shields.io/badge/Launch_Project-58a6ff?style=for-the-badge&logo=github"></a>
+        <a href="#"><img src="https://img.shields.io/badge/PLAY_NOW-a853ba?style=for-the-badge&logo=github"></a>
       </td>
       <td width="50%" style="padding: 15px;">
         <b>💬 Real-Time Chat App</b><br>
         <i>WebSockets + JWT</i><br>
-        <a href="#"><img src="https://img.shields.io/badge/Launch_Project-2ea043?style=for-the-badge&logo=github"></a>
+        <a href="#"><img src="https://img.shields.io/badge/PLAY_NOW-e92a67?style=for-the-badge&logo=github"></a>
       </td>
     </tr>
     <tr>
       <td width="50%" style="padding: 15px;">
         <b>🤖 AI RAG System</b><br>
         <i>LangChain + Vector DB</i><br>
-        <a href="#"><img src="https://img.shields.io/badge/Launch_Project-8957e5?style=for-the-badge&logo=github"></a>
+        <a href="#"><img src="https://img.shields.io/badge/PLAY_NOW-2a8bab?style=for-the-badge&logo=github"></a>
       </td>
       <td width="50%" style="padding: 15px;">
         <b>📊 Task Management System</b><br>
         <i>Multi-user dashboard</i><br>
-        <a href="#"><img src="https://img.shields.io/badge/Launch_Project-e34c26?style=for-the-badge&logo=github"></a>
+        <a href="#"><img src="https://img.shields.io/badge/PLAY_NOW-50fa7b?style=for-the-badge&logo=github"></a>
       </td>
     </tr>
   </table>
@@ -109,26 +109,26 @@
 
 ---
 
-## 📈 `GitHub Analytics Hub`
+## 📊 `[ Player Character Stats ]`
 
 <p align="center">
   <a href="https://github.com/rohanhalaj18">
-    <img src="https://github-readme-stats.vercel.app/api?username=rohanhalaj18&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&ani=true" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=rohanhalaj18&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&ani=true" height="195"/>
   </a>
   <a href="https://github.com/rohanhalaj18">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanhalaj18&layout=compact&theme=github_dark&hide_border=true" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanhalaj18&layout=compact&theme=synthwave&hide_border=true" height="195"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rohanhalaj18">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanhalaj18&theme=github_dark&hide_border=true&pulse=true" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanhalaj18&theme=synthwave&hide_border=true&pulse=true" height="180"/>
   </a>
 </p>
 
 ---
 
-## 🐍 `Code Ocean (Animated Snake)`
+## 🐍 `[ Mini-Game: The Contribution Snake ]`
 
 <p align="center">
   <a href="https://github.com/rohanhalaj18/rohanhalaj18/actions">
@@ -143,36 +143,33 @@
 
 ---
 
-## 📡 `Establish Connection`
+## 📡 `[ Multiplayer Lobby ]`
 
 <div align="center">
-  <i>"Always open to discussing tech, AI, or cool product ideas."</i>
+  <i>"Always open to taking on a new Co-Op Campaign or Boss Raid."</i>
   <br><br>
   
   <a href="https://linkedin.com/in/rohan-halaj">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:rohanhalaj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br><br>
   
-  <a href="https://github.com/rohanhalaj18/rohanhalaj18/issues/new?title=Awesome%20Profile!&body=Hi!%20I%20love%20the%20setup.">
-    <img src="https://img.shields.io/badge/Leave_a_Star_on_my_Repo-⭐-1f6feb?style=for-the-badge" alt="Star my repo" />
+  <a href="https://github.com/rohanhalaj18/rohanhalaj18/issues/new?title=Hey%20Awesome%20Profile!&body=Hi!%20I%20love%20the%20gaming%20setup.">
+    <img src="https://img.shields.io/badge/Leave_a_Star_on_my_Repo-⭐-a853ba?style=for-the-badge" alt="Star my repo" />
   </a>
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=161b22,58a6ff,0d1117&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,2a8bab,a853ba,e92a67,000000&height=120&section=footer"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/rohanhalaj18">
-    <img src="https://visitcount.itsvg.in/api?id=rohanhalaj18&icon=2&color=12" alt="Profile Views" />
+    <img src="https://visitcount.itsvg.in/api?id=rohanhalaj18&icon=2&color=6" alt="Profile Views" />
   </a>
 </p>
