@@ -139,7 +139,7 @@
     </picture>
   </a>
 </p>
-<p align="center"><i>(<b>Note:</b> You MUST go to the <a href="https://github.com/rohanhalaj18/rohanhalaj18/actions">Actions Tab</a> and click "Run Workflow" for the snake to appear!)</i></p>
+<!-- <p align="center"><i>(<b>Note:</b> You MUST go to the <a href="https://github.com/rohanhalaj18/rohanhalaj18/actions">Actions Tab</a> and click "Run Workflow" for the snake to appear!)</i></p> -->
 
 ---
 
@@ -175,4 +175,4 @@
   <a href="https://github.com/rohanhalaj18">
     <img src="https://visitcount.itsvg.in/api?id=rohanhalaj18&icon=2&color=12" alt="Profile Views" />
   </a>
-</p>
+</p>
