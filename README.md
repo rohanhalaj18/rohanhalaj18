@@ -50,7 +50,7 @@
   <tr>
     <td style="padding:10px; color:#ef9a9a">💰💰💰 1st Place</td>
     <td style="padding:10px;"><b>HackAura 2026</b><br><i>11–14 Mar 2026</i></td>
-    <td style="padding:10px;">GIT Belagavi</td>
+    <td style="padding:10px;">VSM college Nipani</td>
     <td style="padding:10px;">Rohan, Ashish,<br>Nayana, Adil</td>
   </tr>
   <tr>
