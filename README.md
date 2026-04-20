@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/🏆_RANK-Hackathon_Champion-0d47a1?style=for-the-badge" />
 </p>
 
+<!-- GTA 5 STICKER PACK -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanhalaj18/rohanhalaj18/main/assets/gta5_stickers.png" width="700" alt="GTA 5 Stickers" />
+</p>
+
 <!-- CONTACT BUTTON -->
 <p align="center">
    <a href="https://github.com/rohanhalaj18/rohanhalaj18/issues/new?title=📞%20Calling%20Rohan!&body=Yo%20I%20found%20your%20base%20in%20Los%20Santos...">
@@ -123,6 +128,11 @@
 <br>
 
 ---
+
+<!-- LSPD STICKER BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanhalaj18/rohanhalaj18/main/assets/gta5_lspd.png" width="700" alt="LSPD Sticker Banner" />
+</p>
 
 ## 📊 `LSPD CRIMINAL RECORD — GITHUB STATS`
 
