@@ -131,7 +131,7 @@
 
 <!-- LSPD STICKER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohanhalaj18/rohanhalaj18/main/assets/gta5_lspd.png" width="700" alt="LSPD Sticker Banner" />
+  <img src="./assets/image.png" width="700" alt="LSPD Sticker Banner" />
 </p>
 
 ## 📊 `LSPD CRIMINAL RECORD — GITHUB STATS`
