@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohanhalaj18&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+clean+full-stack+products;Exploring+AI%2C+RAG%2C+and+real-time+systems;Turning+hackathon+ideas+into+working+software" alt="Typing introduction" />
 </p>
 
@@ -24,10 +28,20 @@
 
 I build full-stack applications with a focus on clean product experiences, practical AI systems, and reliable backend foundations.
 
+> Building software that feels simple, useful, and finished.
+
 - Currently exploring AI-powered apps, RAG workflows, and real-time web systems.
 - Comfortable moving across frontend, backend, databases, and deployment.
 - Hackathon winner with experience shipping under pressure with focused teams.
 - Based in India, building projects that are useful, fast, and polished.
+
+---
+
+## Current Focus
+
+- Building production-ready full-stack projects.
+- Learning deeper AI and RAG application patterns.
+- Improving system design, deployment, and product polish.
 
 ---
 
@@ -41,12 +55,12 @@ I build full-stack applications with a focus on clean product experiences, pract
 
 ## Featured Projects
 
-| Project | Focus | Stack | Status |
-| --- | --- | --- | --- |
-| **NoteConnect** | Peer-to-peer notes platform | Full stack, auth, database | Building |
-| **Real-Time Chat App** | Live messaging with protected sessions | WebSockets, JWT, Node.js | Building |
-| **AI RAG System** | Retrieval-augmented AI assistant | LangChain, vector database | Exploring |
-| **Task Manager** | Multi-user productivity dashboard | React, API, database | Building |
+| Project | Focus | Stack | Status | Links |
+| --- | --- | --- | --- | --- |
+| **NoteConnect** | Peer-to-peer notes platform | Full stack, auth, database | Building | Coming soon |
+| **Real-Time Chat App** | Live messaging with protected sessions | WebSockets, JWT, Node.js | Building | Coming soon |
+| **AI RAG System** | Retrieval-augmented AI assistant | LangChain, vector database | Exploring | Coming soon |
+| **Task Manager** | Multi-user productivity dashboard | React, API, database | Building | Coming soon |
 
 ---
 
@@ -76,6 +90,10 @@ I build full-stack applications with a focus on clean product experiences, pract
   <a href="https://github.com/rohanhalaj18">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanhalaj18&theme=dark&hide_border=true&stroke=1E293B&ring=38BDF8&fire=F87171&currStreakLabel=38BDF8&background=0B1120&sideLabels=E5E7EB&dates=94A3B8" height="180" alt="GitHub streak" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanhalaj18&theme=react-dark&hide_border=true&bg_color=0B1120&color=E5E7EB&line=38BDF8&point=F87171" alt="GitHub activity graph" />
 </p>
 
 ---
