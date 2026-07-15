@@ -95,7 +95,7 @@ I build full-stack applications with a focus on clean product experiences, pract
 ---
 
 <p align="center">
-  <img src="./assets/gta5_lspd.png" width="680" alt="Portfolio visual banner" />
+  <img src="./assets/image.png" width="680" alt="Portfolio visual banner" />
 </p>
 
 <p align="center">
