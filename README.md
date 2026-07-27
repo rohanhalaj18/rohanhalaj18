@@ -45,6 +45,18 @@ I build full-stack applications with a focus on clean product experiences, pract
 
 ---
 
+## Mid-Scroll
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm8yajV0OXphdjB5MDE4cG00eGp1MGRuM2c4eHpnYWdiaHRidmZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKp3DW2ZwDlVS/giphy.gif" width="360" alt="Anime boy GIF" />
+</p>
+
+<p align="center">
+  <sub>Quiet confidence, mid-scroll.</sub>
+</p>
+
+---
+
 ## Tech Stack
 
 <p align="center">
@@ -109,18 +121,6 @@ I build full-stack applications with a focus on clean product experiences, pract
       <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rohanhalaj18/rohanhalaj18/output/github-contribution-grid-snake.svg">
     </picture>
   </a>
-</p>
-
----
-
-## Anime Corner
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG84MWJieWIwd3JrNm9tNHo0MHFmd3hqZHhqaDN0eDAxM3NuYmNiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5NE2L7vdWZ9V39Sjq8/200.gif" width="360" alt="Anime girl coding animation" />
-</p>
-
-<p align="center">
-  <sub>Late-night build mode.</sub>
 </p>
 
 ---
