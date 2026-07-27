@@ -64,37 +64,14 @@ I build full-stack applications with a focus on clean product experiences, pract
 
 ---
 
-## 🏆 Hackathon Achievement
+## Hackathon Record
 
-### 🥈 2nd Place - YUGMA TechFest 2.0 Hackathon
-
-**Track:** AI for Medical Image Enhancement
-
-**Venue:** Jawaharlal Nehru New College of Engineering (JNNCE), Navule, Shivamogga, Karnataka, India
-
-**Organized by:** Department of Information Science & Engineering, JNNCE, Shivamogga
-
-**Prize:** ₹30,000
-
-**Date:** 24th - 25th July 2026
-
-### 👥 Team Members
-
-Rohan, Ashish, Nayana, Adil
-
-### 🚀 Project Overview
-
-Developed an AI-powered Medical Image Enhancement framework for Brain MRI datasets. The solution included:
-
-- 📊 MRI Dataset Analysis
-- 🧹 Advanced MRI Preprocessing
-- 🤖 Deep Learning-based Image Enhancement
-- 📈 Quality Evaluation using PSNR, SSIM, LPIPS, NIQE, BRISQUE, and other metrics
-- 🩺 Medical Image Visualization and Reporting
-
-### 🏅 Achievement
-
-Secured **2nd Place** among **61 participating teams**, competing against students from various engineering colleges.
+| Result | Event | Date | Location | Team |
+| --- | --- | --- | --- | --- |
+| **1st Place** | TechSprint | 31 Jan 2026 | VTU, Belagavi | Rohan, Ashish, Nayana, Adil |
+| **1st Place** | HackAura 2026 | 11-14 Mar 2026 | VSM College, Nipani | Rohan, Ashish, Nayana, Adil |
+| **2nd Place** | Mini Hackathon | 11-12 Apr 2026 | KLE Tech University | Rohan, Ashish, Nayana, Adil |
+| **2nd Place** | Nexora | 11 Oct 2025 | Jain College, Belagavi | Rohan, Ashish, Adil, Saish |
 
 ---
 
