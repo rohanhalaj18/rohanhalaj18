@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:0B1120,55:164E63,100:F87171&text=Rohan%20Halaj&fontSize=52&fontColor=E5E7EB&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Hackathon%20Winner&descSize=16&descColor=94A3B8&descAlignY=58" alt="Rohan Halaj" />
 </p>
-<p align="left">
- <img src="https://giphy.com/embed/tptFQ8QAJYYvu" width="480" height="317" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rohan-halaj">
