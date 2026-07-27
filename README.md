@@ -6,6 +6,8 @@
   <a href="https://linkedin.com/in/rohan-halaj">
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
   </a>
+
+  
   <a href="mailto:rohanhalaj@gmail.com">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email" />
   </a>
