@@ -43,16 +43,10 @@ I build full-stack applications with a focus on clean product experiences, pract
 - Learning deeper AI and RAG application patterns.
 - Improving system design, deployment, and product polish.
 
----
-
-## Mid-Scroll
-
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm8yajV0OXphdjB5MDE4cG00eGp1MGRuM2c4eHpnYWdiaHRidmZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKp3DW2ZwDlVS/giphy.gif" width="360" alt="Anime boy GIF" />
-</p>
-
-<p align="center">
-  <sub>Quiet confidence, mid-scroll.</sub>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm8yajV0OXphdjB5MDE4cG00eGp1MGRuM2c4eHpnYWdiaHRidmZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKp3DW2ZwDlVS/giphy.gif" width="130" alt="Anime boy GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM3aTZhcGtvMXVoN3Vtc21raW5nZXN6eWNtYmQydDZtNGh1OW40bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/13pHvqbNfjaZyg/giphy.gif" width="130" alt="Anime boy GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM3aTZhcGtvMXVoN3Vtc21raW5nZXN6eWNtYmQydDZtNGh1OW40bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/okWCAjMp0pInC/giphy.gif" width="130" alt="Anime action GIF" />
 </p>
 
 ---
