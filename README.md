@@ -113,6 +113,18 @@ I build full-stack applications with a focus on clean product experiences, pract
 
 ---
 
+## Anime Corner
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG84MWJieWIwd3JrNm9tNHo0MHFmd3hqZHhqaDN0eDAxM3NuYmNiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5NE2L7vdWZ9V39Sjq8/200.gif" width="360" alt="Anime girl coding animation" />
+</p>
+
+<p align="center">
+  <sub>Late-night build mode.</sub>
+</p>
+
+---
+
 <p align="center">
   <img src="./assets/image.png" width="680" alt="Portfolio visual banner" />
 </p>
