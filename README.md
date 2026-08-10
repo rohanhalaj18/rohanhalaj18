@@ -1,28 +1,34 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:0B1120,55:164E63,100:F87171&text=Rohan%20Halaj&fontSize=52&fontColor=E5E7EB&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Hackathon%20Winner&descSize=16&descColor=94A3B8&descAlignY=58" alt="Rohan Halaj" />
-</p>
+<table>
+  <tr>
+    <td width="64%">
+      <h1>Rohan Halaj</h1>
+      <p>
+        Full-stack developer building practical web products, AI experiments,
+        and hackathon projects that make it past the demo screen.
+      </p>
+      <p>
+        <a href="https://linkedin.com/in/rohan-halaj">LinkedIn</a> /
+        <a href="mailto:rohanhalaj@gmail.com">Email</a> /
+        <a href="https://github.com/rohanhalaj18">GitHub</a>
+      </p>
+    </td>
+    <td width="36%">
+      <strong>Builder Notes</strong>
+      <br />
+      currently: AI apps + RAG workflows
+      <br />
+      pace: hackathon-fast, product-minded
+      <br />
+      base: India
+      <br />
+      wins: 6 podium finishes
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rohan-halaj">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
-  </a>
-
-  
-  <a href="mailto:rohanhalaj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email" />
-  </a>
-  <a href="https://github.com/rohanhalaj18">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohanhalaj18&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+clean+full-stack+products;Exploring+AI%2C+RAG%2C+and+real-time+systems;Turning+hackathon+ideas+into+working+software" alt="Typing introduction" />
-</p>
+```txt
+idea -> prototype -> polish -> ship
+```
 
 ---
 
