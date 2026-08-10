@@ -67,7 +67,7 @@
     </g>
   </g>
 
-  <g transform="translate(720 72)" class="float">
+  <g transform="translate(835 118)" class="float">
     <circle cx="176" cy="154" r="118" stroke="#38BDF8" stroke-opacity="0.22"/>
     <circle cx="176" cy="154" r="84" stroke="#A78BFA" stroke-opacity="0.28" stroke-dasharray="8 10"/>
     <circle cx="176" cy="154" r="47" fill="#08111F" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
@@ -76,7 +76,7 @@
     <circle cx="92" cy="87" r="7" fill="#FB7185"/>
     <circle cx="282" cy="127" r="6" fill="#22D3EE"/>
     <circle cx="250" cy="245" r="5" fill="#A78BFA"/>
-    <text x="64" y="303" class="mono" font-size="13" fill="#94A3B8">prototype velocity: high</text>
+    <text x="54" y="284" class="mono" font-size="13" fill="#94A3B8">prototype velocity: high</text>
   </g>
 
   <g transform="translate(760 74)">
