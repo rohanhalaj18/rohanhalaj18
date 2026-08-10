@@ -1,34 +1,14 @@
-<table>
-  <tr>
-    <td width="64%">
-      <h1>Rohan Halaj</h1>
-      <p>
-        Full-stack developer building practical web products, AI experiments,
-        and hackathon projects that make it past the demo screen.
-      </p>
-      <p>
-        <a href="https://linkedin.com/in/rohan-halaj">LinkedIn</a> /
-        <a href="mailto:rohanhalaj@gmail.com">Email</a> /
-        <a href="https://github.com/rohanhalaj18">GitHub</a>
-      </p>
-    </td>
-    <td width="36%">
-      <strong>Builder Notes</strong>
-      <br />
-      currently: AI apps + RAG workflows
-      <br />
-      pace: hackathon-fast, product-minded
-      <br />
-      base: India
-      <br />
-      wins: 6 podium finishes
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Rohan Halaj - full-stack developer building AI apps, RAG workflows, realtime systems, and hackathon projects" />
+</p>
 
-```txt
-idea -> prototype -> polish -> ship
-```
+<p align="center">
+  <a href="https://linkedin.com/in/rohan-halaj"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="mailto:rohanhalaj@gmail.com"><strong>Email</strong></a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://github.com/rohanhalaj18"><strong>GitHub</strong></a>
+</p>
 
 ---
 
