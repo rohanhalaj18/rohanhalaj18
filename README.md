@@ -97,10 +97,6 @@ I build full-stack applications with a focus on clean product experiences, pract
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanhalaj18&theme=react-dark&hide_border=true&bg_color=0B1120&color=E5E7EB&line=38BDF8&point=F87171" alt="GitHub activity graph" />
-</p>
-
 ---
 
 ## Contribution Trail
