@@ -10,6 +10,12 @@
   <a href="https://github.com/rohanhalaj18"><strong>GitHub</strong></a>
 </p>
 
+<p align="center">
+  <a href="https://devsprint-lime.vercel.app/verify/participant-03">
+    <img src="https://devsprint-lime.vercel.app/api/badge/participant-03.svg" alt="Participants Badge" />
+  </a>
+</p>
+
 ---
 
 ## About
