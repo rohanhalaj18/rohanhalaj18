@@ -10,12 +10,6 @@
   <a href="https://github.com/rohanhalaj18"><strong>GitHub</strong></a>
 </p>
 
-<p align="center">
-  <a href="https://devsprint-lime.vercel.app/verify/participant-03">
-    <img src="https://devsprint-lime.vercel.app/api/badge/participant-03.svg" alt="Participants Badge" />
-  </a>
-</p>
-
 ---
 
 ## About
@@ -74,6 +68,16 @@ I build full-stack applications with a focus on clean product experiences, pract
 | **2nd Place** | Nexora | 11 Oct 2025 | Jain College, Belagavi | Rohan, Ashish, Adil, Saish |
 | **2nd Place** | YUGMA TechFest 2.0  | 24-25 july 2026 | Jawaharlal Nehru New College of Engineering (JNNC) | Rohan, Ashish, Adil, Nayana |
 | **3rd Place** | Hack Genesis  | 7-8 Aug 2026 | KLE Tech University | Rohan, Ashish, Adil, Nayana |
+---
+
+## Badges
+
+<p align="center">
+  <a href="https://devsprint-lime.vercel.app/verify/participant-03">
+    <img src="https://devsprint-lime.vercel.app/api/badge/participant-03.svg" width="220" alt="Google DevSprint Participant Badge" />
+  </a>
+</p>
+
 ---
 
 ## GitHub Dashboard
