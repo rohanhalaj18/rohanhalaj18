@@ -63,11 +63,12 @@ I build full-stack applications with a focus on clean product experiences, pract
 | Result | Event | Date | Location | Team |
 | --- | --- | --- | --- | --- |
 | **1st Place** | TechSprint | 31 Jan 2026 | VTU, Belagavi | Rohan, Ashish, Nayana, Adil |
-| **1st Place** | HackAura 2026 | 11-14 Mar 2026 | VSM College, Nipani | Rohan, Ashish, Nayana, Adil |
+| **1st Place** | HackAura 2026 | 11-14 Mar 2026 | VSM College, Nipani | Rohan(Lead), Ashish, Nayana, Adil |
 | **2nd Place** | Mini Hackathon | 11-12 Apr 2026 | KLE Tech University | Rohan, Ashish, Nayana, Adil |
-| **2nd Place** | Nexora | 11 Oct 2025 | Jain College, Belagavi | Rohan, Ashish, Adil, Saish |
+| **2nd Place** | Nexora | 11 Oct 2025 | Jain College, Belagavi | Rohan(Lead), Ashish, Adil, Saish |
 | **2nd Place** | YUGMA TechFest 2.0  | 24-25 july 2026 | Jawaharlal Nehru New College of Engineering (JNNC) | Rohan, Ashish, Adil, Nayana |
-| **3rd Place** | Hack Genesis  | 7-8 Aug 2026 | KLE Tech University | Rohan, Ashish, Adil, Nayana |
+| **2nd Place** | Minecraft 2K26  | 3-4 oct 2026 | CSI Student Chapter, D. Y. Patil College of Engineering & Technology, Kolhapur. | Rohan(Lead), Ashish, Adil, Nayana |
+| **3rd Place** | Hack Genesis  | 7-8 Aug 2026 | KLE Tech University | Rohan(Lead), Ashish, Adil, Nayana |
 ---
 
 ## Badges
