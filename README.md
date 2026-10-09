@@ -4,17 +4,21 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rohan-halaj"><strong>LinkedIn</strong></a>
-  &nbsp;&nbsp;/&nbsp;&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:rohanhalaj@gmail.com"><strong>Email</strong></a>
-  &nbsp;&nbsp;/&nbsp;&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/rohanhalaj18"><strong>GitHub</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%BF-planting%20code%20and%20growing%20ideas-2D6A4F?style=for-the-badge&logoColor=white" alt="Planting code and growing ideas" />
 </p>
 
 ---
 
-## About
+## Hello, I'm Rohan 🌱
 
-I build full-stack applications with a focus on clean product experiences, practical AI systems, and reliable backend foundations.
+I build full-stack applications the way a forest grows — strong roots, steady layers, room to breathe.
 
 > Building software that feels simple, useful, and finished.
 
@@ -23,19 +27,19 @@ I build full-stack applications with a focus on clean product experiences, pract
 - Hackathon winner with experience shipping under pressure with focused teams.
 - Based in India, building projects that are useful, fast, and polished.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="150" alt="Forest trees swaying in the wind" />
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="150" alt="Leaves falling gently" />
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="150" alt="Calm nature scene" />
+</p>
+
 ---
 
 ## Current Focus
 
-- Building production-ready full-stack projects.
-- Learning deeper AI and RAG application patterns.
-- Improving system design, deployment, and product polish.
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm8yajV0OXphdjB5MDE4cG00eGp1MGRuM2c4eHpnYWdiaHRidmZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKp3DW2ZwDlVS/giphy.gif" width="130" alt="Anime boy GIF" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM3aTZhcGtvMXVoN3Vtc21raW5nZXN6eWNtYmQydDZtNGh1OW40bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/13pHvqbNfjaZyg/giphy.gif" width="130" alt="Anime boy GIF" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM3aTZhcGtvMXVoN3Vtc21raW5nZXN6eWNtYmQydDZtNGh1OW40bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/okWCAjMp0pInC/giphy.gif" width="130" alt="Anime action GIF" />
-</p>
+- 🌿 Growing production-ready full-stack projects.
+- 🍄 Learning deeper AI and RAG application patterns.
+- 🏔️ Improving system design, deployment, and product polish.
 
 ---
 
@@ -51,24 +55,25 @@ I build full-stack applications with a focus on clean product experiences, pract
 
 | Project | Focus | Stack | Status | Links |
 | --- | --- | --- | --- | --- |
-| **NoteConnect** | Peer-to-peer notes platform | Full stack, auth, database | Building | Coming soon |
-| **Real-Time Chat App** | Live messaging with protected sessions | WebSockets, JWT, Node.js | Building | Coming soon |
-| **AI RAG System** | Retrieval-augmented AI assistant | LangChain, vector database | Exploring | Coming soon |
-| **Task Manager** | Multi-user productivity dashboard | React, API, database | Building | Coming soon |
+| **NoteConnect** | Peer-to-peer notes platform | Full stack, auth, database | 🌱 Growing | Coming soon |
+| **Real-Time Chat App** | Live messaging with protected sessions | WebSockets, JWT, Node.js | 🌱 Growing | Coming soon |
+| **AI RAG System** | Retrieval-augmented AI assistant | LangChain, vector database | 🔎 Exploring | Coming soon |
+| **Task Manager** | Multi-user productivity dashboard | React, API, database | 🌱 Growing | Coming soon |
 
 ---
 
-## Hackathon Record
+## Hackathon Trail
 
 | Result | Event | Date | Location | Team |
 | --- | --- | --- | --- | --- |
-| **1st Place** | TechSprint | 31 Jan 2026 | VTU, Belagavi | Rohan, Ashish, Nayana, Adil |
-| **1st Place** | HackAura 2026 | 11-14 Mar 2026 | VSM College, Nipani | Rohan(Lead), Ashish, Nayana, Adil |
-| **2nd Place** | Mini Hackathon | 11-12 Apr 2026 | KLE Tech University | Rohan, Ashish, Nayana, Adil |
-| **2nd Place** | Nexora | 11 Oct 2025 | Jain College, Belagavi | Rohan(Lead), Ashish, Adil, Saish |
-| **2nd Place** | YUGMA TechFest 2.0  | 24-25 july 2026 | Jawaharlal Nehru New College of Engineering (JNNC) | Rohan, Ashish, Adil, Nayana |
-| **2nd Place** | Minecraft 2K26  | 3-4 oct 2026 | CSI Student Chapter, D. Y. Patil College of Engineering & Technology, Kolhapur. | Rohan(Lead), Ashish, Adil, Nayana |
-| **3rd Place** | Hack Genesis  | 7-8 Aug 2026 | KLE Tech University | Rohan(Lead), Ashish, Adil, Nayana |
+| 🥇 **1st Place** | TechSprint | 31 Jan 2026 | VTU, Belagavi | Rohan(Lead), Ashish, Nayana, Adil |
+| 🥇 **1st Place** | HackAura 2026 | 11-14 Mar 2026 | VSM College, Nipani | Rohan(Lead), Ashish, Nayana, Adil |
+| 🥈 **2nd Place** | Mini Hackathon | 11-12 Apr 2026 | KLE Tech University | Rohan, Ashish, Nayana, Adil |
+| 🥈 **2nd Place** | Nexora | 11 Oct 2025 | Jain College, Belagavi | Rohan(Lead), Ashish, Adil, Saish |
+| 🥈 **2nd Place** | YUGMA TechFest 2.0 | 24-25 July 2026 | Jawaharlal Nehru New College of Engineering (JNNC) | Rohan, Ashish, Adil, Nayana |
+| 🥈 **2nd Place** | Minecraft 2K26 | 3-4 Oct 2026 | CSI Student Chapter, D. Y. Patil College of Engineering & Technology, Kolhapur | Rohan(Lead), Ashish, Adil, Nayana |
+| 🥉 **3rd Place** | Hack Genesis | 7-8 Aug 2026 | KLE Tech University | Rohan(Lead), Ashish, Adil, Nayana |
+
 ---
 
 ## Badges
@@ -81,20 +86,20 @@ I build full-stack applications with a focus on clean product experiences, pract
 
 ---
 
-## GitHub Dashboard
+## Growth Rings
 
 <p align="center">
   <a href="https://github.com/rohanhalaj18">
-    <img src="https://github-readme-stats.vercel.app/api?username=rohanhalaj18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=F87171&text_color=E5E7EB&bg_color=0B1120" height="185" alt="Rohan's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rohanhalaj18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=95D5B2&icon_color=74C69D&text_color=D8F3DC&bg_color=081C15" height="185" alt="Rohan's GitHub stats" />
   </a>
   <a href="https://github.com/rohanhalaj18">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanhalaj18&layout=compact&theme=dark&hide_border=true&title_color=38BDF8&text_color=E5E7EB&bg_color=0B1120" height="185" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanhalaj18&layout=compact&theme=dark&hide_border=true&title_color=95D5B2&text_color=D8F3DC&bg_color=081C15" height="185" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rohanhalaj18">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanhalaj18&theme=dark&hide_border=true&stroke=1E293B&ring=38BDF8&fire=F87171&currStreakLabel=38BDF8&background=0B1120&sideLabels=E5E7EB&dates=94A3B8" height="180" alt="GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanhalaj18&theme=dark&hide_border=true&stroke=1B4332&ring=95D5B2&fire=74C69D&currStreakLabel=95D5B2&background=081C15&sideLabels=D8F3DC&dates=95D5B2" height="180" alt="GitHub streak" />
   </a>
 </p>
 
@@ -119,9 +124,9 @@ I build full-stack applications with a focus on clean product experiences, pract
 </p>
 
 <p align="center">
-  <sub>Clean systems. Useful products. Quietly cinematic code.</sub>
+  <sub>Rooted in curiosity. Growing every day. 🌲</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1120,60:164E63,100:F87171" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:081C15,50:1B4332,100:74C69D" alt="Footer wave" />
 </p>
